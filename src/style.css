@@ -17,3 +17,10 @@
   border-right: 10px solid transparent;
   border-bottom: 35px solid red;
 }
+
+.route-title {
+  background-color: gray;
+  opacity: 0.8;
+  position: absolute;
+  z-index: 1000;
+}
